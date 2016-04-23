@@ -1,7 +1,7 @@
 name: HAPPY Online Marketing
 favicon: null
-layout_spectrum: 0.2380843518767506
-typography_spectrum: 0.80810865922831
+layout_spectrum: 0.24889
+typography_spectrum: 0.39327
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.2071067241486162
-  lightness: 0.09623587317764759
-  saturation: 0.9382632928900421
-  rhythmicContrast: 0.9072696350049227
+    - '#ececeb'
+    - '#ff4647'
+    - '#dc0000'
+    - '#f78787'
+    - '#f3abab'
+  brandStrength: 0.75
+  lightness: 0.8125
+  saturation: 0.625
+  rhythmicContrast: 0.75
 purpose: []
